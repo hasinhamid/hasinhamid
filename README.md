@@ -29,9 +29,8 @@ My first interactive game built with **HTML, CSS, and JavaScript**.
 I love connecting with like-minded individuals, sharing ideas, and learning from the community!  
 
 - 🌐 [GitHub Profile](https://github.com/hasinhamid)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hasinhamid12)  
-- 🐦 [Twitter](https://twitter.com/hasinhamid)  
-- 📸 [Instagram](https://instagram.com/hasinhamid)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasin-hamid)  
+- 📸 [Instagram](https://instagram.com/hasin_hamid)  
 - [FB](https://www.facebook.com/HasinHamid.12/)
 
 ---
